@@ -1,0 +1,6 @@
+framework module Pods_DarkZhao_DKUIKit_example {
+  umbrella header "Pods-DarkZhao.DKUIKit.example-umbrella.h"
+
+  export *
+  module * { export * }
+}
