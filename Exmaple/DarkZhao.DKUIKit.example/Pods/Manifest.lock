@@ -1,0 +1,16 @@
+PODS:
+  - DKUIKit (0.0.1)
+
+DEPENDENCIES:
+  - DKUIKit (from `../../`)
+
+EXTERNAL SOURCES:
+  DKUIKit:
+    :path: "../../"
+
+SPEC CHECKSUMS:
+  DKUIKit: 550b64f013593d306b2ba79e0ebbdcc0ebc83444
+
+PODFILE CHECKSUM: 8c80969ca5e76b1db4edf39946e5a75c069f6993
+
+COCOAPODS: 1.11.3
